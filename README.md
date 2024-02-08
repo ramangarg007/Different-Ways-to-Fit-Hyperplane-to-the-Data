@@ -1,10 +1,5 @@
 # Different-Ways-to-Fit-Hyperplane-to-the-Data
 
-![image](https://github.com/ramangarg007/Different-Ways-to-Fit-Hyperplane-to-the-Data/assets/15136599/eb411883-dc7e-406a-9073-dcf62466da71)
-![image](https://github.com/ramangarg007/Different-Ways-to-Fit-Hyperplane-to-the-Data/assets/15136599/f17d59ae-2d01-4ae1-ba27-2d4324ec5a99)
-![image](https://github.com/ramangarg007/Different-Ways-to-Fit-Hyperplane-to-the-Data/assets/15136599/47bd32dd-190c-4e2e-9553-440ce83d8b79)
-
-
 ## Introduction:
 In the realm of machine learning and statistical modeling, the techniques of Linear Regression, Logistic Regression, and Support Vector Machine (SVM) play pivotal roles in various applications. These methods are widely employed for their ability to model relationships between variables and classify data points into distinct classes. At the core of their functionality lies the concept of fitting hyperplanes to the data, facilitating effective separation and prediction tasks.
 
@@ -18,3 +13,8 @@ For each algorithm we will see the loss function, the derivatives and the implem
 1. Linear Regression
 2. Logistic Regression
 3. Support Vector Machine
+
+
+![image](https://github.com/ramangarg007/Different-Ways-to-Fit-Hyperplane-to-the-Data/assets/15136599/eb411883-dc7e-406a-9073-dcf62466da71)
+![image](https://github.com/ramangarg007/Different-Ways-to-Fit-Hyperplane-to-the-Data/assets/15136599/f17d59ae-2d01-4ae1-ba27-2d4324ec5a99)
+![image](https://github.com/ramangarg007/Different-Ways-to-Fit-Hyperplane-to-the-Data/assets/15136599/47bd32dd-190c-4e2e-9553-440ce83d8b79)
